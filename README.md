@@ -4,10 +4,10 @@ Projeto desenvolvido durante o curso **Microsoft Power BI Para Business Intellig
 
 Neste projeto, trabalhei com uma base de dados de clientes e campanhas de Marketing, criando 4 dashboards para analisar diferentes perspectivas:
 
-• **Perfil dos clientes**
-• **Comportamento de compra**
-• **Performance das campanhas de Marketing**
-• **Padrões de compra por Ponto de Venda**
+- **Perfil dos clientes**
+- **Comportamento de compra**
+- **Performance das campanhas de Marketing**
+- **Padrões de compra por Ponto de Venda**
 
 ## O que foi desenvolvido
 
@@ -36,6 +36,12 @@ Durante o projeto, foram trabalhados recursos do Power BI como:
 ### Visão Ponto de Venda
 
 ![Visão Ponto de Venda](imagens/visao-ponto-de-venda.png)
+
+## Arquivo Power BI
+
+O arquivo `.pbix` utilizado no projeto está disponível neste repositório para download.
+
+[Baixar arquivo Power BI](./Marketing_Campaigns.pbix)
 
 ## Ferramentas
 
