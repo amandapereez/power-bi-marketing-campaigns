@@ -64,7 +64,7 @@ Gasto por categoria e país, e evolução do gasto por país entre 2018 e 2023.
 
 ## Arquivo Power BI
 
-[Baixar o arquivo `.pbix`](./Marketing_Campaigns.pbix)
+[Baixar o arquivo `.pbix`](./Campanha_Marketing.pbix)
 
 ## Ferramentas
 
